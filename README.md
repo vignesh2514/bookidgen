@@ -1,2 +1,2 @@
 # bookidgen
- An Npm package of bookingidgen
+ An Npm package of Booking Id Generate
