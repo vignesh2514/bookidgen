@@ -1,6 +1,6 @@
 {
   "name": "bookidgen",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "A easiest way for generating booking id",
   "main": "index.js",
   "scripts": {
